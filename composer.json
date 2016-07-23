@@ -1,5 +1,6 @@
 {
     "require": {
-        "dts/ebay-sdk-php": "^5.0"
+        "dts/ebay-sdk-php": "^5.0",
+        "exeu/apai-io": "^2.0"
     }
 }
